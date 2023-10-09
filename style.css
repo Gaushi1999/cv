@@ -103,3 +103,15 @@ hr{
 .exprnc {
     text-align: center;
 }
+
+ul {
+    list-style: none;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+    font-weight: 500;
+}
+
+.projects {
+    text-align: center !important;
+}
